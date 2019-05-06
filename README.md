@@ -1,6 +1,6 @@
 # GSN Imagebank - Repository for Global Storybooks Images
 
-This repository contains images adapted from the [African Storybook](http://www.africanstorybook.org) collection by the [Global Storybooks](https://globalstorybooks.net) project.
+This repository contains images adapted from the [African Storybook](https://www.africanstorybook.org) collection by the [Global Storybooks](https://globalstorybooks.net) project.
 
 The images here include both those that have been modified (e.g., by colourization, cropping, etc.), as well as unmodified images. A repository containing only the modified images can be found [here](https://github.com/global-asp/asp-imagebank-new/), while the original, unmodified images can be found in the [asp-imagebank](https://github.com/global-asp/asp-imagebank) repository.
 
